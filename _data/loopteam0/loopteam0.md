@@ -1,4 +1,4 @@
 name: Paul Boamah  
-institution: KNUST  
+institution: Knust  
 quote: Life is for the living so live it
 github_user: loopteam0
